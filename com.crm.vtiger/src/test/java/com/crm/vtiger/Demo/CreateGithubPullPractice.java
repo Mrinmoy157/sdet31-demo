@@ -11,8 +11,6 @@ public class CreateGithubPullPractice {
 		System.out.println("again");
 		
 		
-		
-		
 	}
 
 }
