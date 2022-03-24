@@ -6,6 +6,9 @@ public class CreateGithubPullPractice {
 	@Test
 	public void create() {
 		System.out.println("created class for pull");
+		
+		
+		
 	}
 
 }
