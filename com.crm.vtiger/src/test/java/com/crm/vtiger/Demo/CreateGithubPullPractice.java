@@ -7,7 +7,7 @@ public class CreateGithubPullPractice {
 	public void create() {
 		System.out.println("created class for pull");
 		
-		
+		System.out.println("again push");
 		
 		
 		
