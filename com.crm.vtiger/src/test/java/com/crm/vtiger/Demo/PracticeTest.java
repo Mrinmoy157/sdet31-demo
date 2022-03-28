@@ -6,6 +6,8 @@ public class PracticeTest {
 	@Test
 	public void practice() {
 		System.out.println("practicing for jenkins on pool scheduling");
+		
+		
 	}
 
 }
